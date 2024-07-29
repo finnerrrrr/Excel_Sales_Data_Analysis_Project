@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Excel is ideal for quick, ad hoc analyses where analysts need to answer specific questions or explore data without the need for complex tools.
 In this project, I utilised Excel for Data cleaning and preperation as well as data viusalisation. Interactive Dashboards, Pivot Tables, Conditional Formatting, Aggregation functions and statiscal analysis were used in order to generate business relevant insights from the data. 
@@ -6,7 +6,7 @@ In this project, I utilised Excel for Data cleaning and preperation as well as d
 Check out the raw and final .xlsx files [here!]()
 
 
-#Dashboard and Pivot Tables
+# Dashboard and Pivot Tables
 
 This interactive dashboard users its accompanying slicers as filters, enabling viewers to filter by Roast Type, Order Size and Loyalty Program Status. Additionally, they can view the Sales by country and Top 5 customers for the filtered range in order to identify trends and better understand their consumers.
 
@@ -18,7 +18,7 @@ The heatmap color coding of the Total Sales pivot table helps to quickly identif
 <img width="322" alt="Screenshot 2024-07-29 at 7 48 56 PM" src="https://github.com/user-attachments/assets/4d1cec39-93e0-490c-82e3-adc9472c747a">
 
 
-#Summary of Insights
+# Summary of Insights
 
 **Yearly Trends:**
 

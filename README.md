@@ -16,7 +16,7 @@ This interactive dashboard users its accompanying slicers as filters, enabling v
 
 <div align = "center">
 <img width="322" alt="Screenshot 2024-07-29 at 7 48 56 PM" src="https://github.com/user-attachments/assets/4d1cec39-93e0-490c-82e3-adc9472c747a">
-<div/>
+</div>
 
 The heatmap color coding of the Total Sales pivot table helps to quickly identify high and low sales months for each coffee type, where red signifies low values and green signifies high values. 
 

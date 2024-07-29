@@ -8,16 +8,15 @@ Check out the raw and final .xlsx files [here!]()
 
 # Dashboard and Pivot Tables
 
+<img width="973" alt="Screenshot 2024-07-29 at 7 46 16 PM" src="https://github.com/user-attachments/assets/36740368-df29-41e4-b2a1-26397bbd6608">
 This interactive dashboard users its accompanying slicers as filters, enabling viewers to filter by Roast Type, Order Size and Loyalty Program Status. Additionally, they can view the Sales by country and Top 5 customers for the filtered range in order to identify trends and better understand their consumers.
 
-<img width="973" alt="Screenshot 2024-07-29 at 7 46 16 PM" src="https://github.com/user-attachments/assets/36740368-df29-41e4-b2a1-26397bbd6608">
 
 
 
-
-The heatmap color coding of the Total Sales pivot table helps to quickly identify high and low sales months for each coffee type, where red signifies low values and green signifies high values. 
 
 <img width="322" alt="Screenshot 2024-07-29 at 7 48 56 PM" src="https://github.com/user-attachments/assets/4d1cec39-93e0-490c-82e3-adc9472c747a">
+The heatmap color coding of the Total Sales pivot table helps to quickly identify high and low sales months for each coffee type, where red signifies low values and green signifies high values. 
 
 
 # Summary of Insights
